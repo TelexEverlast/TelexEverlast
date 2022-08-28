@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @TelexEverlast
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in You
+- ❤ I love you
+- 🌱 I’m currently learning to Become Friend
+- 💞️ I’m looking to collaborate on Friendship 
+- 📫 How to reach me https//github.com
 
 <!---
 TelexEverlast/TelexEverlast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
